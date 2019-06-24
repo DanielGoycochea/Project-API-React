@@ -1,4 +1,4 @@
-# Project API React
+# Project-React-Stefanini
 
 The application will initially display a list of publications sorted by date in descending order.
 Each publication must have a title, a description and a date. In turn, publications will be
